@@ -5,4 +5,6 @@ prostoy_Bot_logger - A telegram bot that remembers all user messages and issues 
 tkrplc - tkinter (pip install tkinter) a working program for searching text and replacing it in just 39 lines of code <br>...<br>
 strip - the script splits the file into the required number of lines, creating the required number of files with the specified number of lines. <br>...<br>
 music_bot - Music bot for Telegram with two functions: receive and send a song + restrictions on receiving songs Without subscribing to a channel or group  <br>...<br>
+pict - a script for creating a slide show from all the pictures in the directory and the desired song with a specified interval of changing pictures in seconds <br>...<br>
+
 
