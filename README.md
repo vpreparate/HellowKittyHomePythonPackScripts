@@ -6,5 +6,6 @@ tkrplc - tkinter (pip install tkinter) a working program for searching text and 
 strip - the script splits the file into the required number of lines, creating the required number of files with the specified number of lines. <br>...<br>
 music_bot - Music bot for Telegram with two functions: receive and send a song + restrictions on receiving songs Without subscribing to a channel or group  <br>...<br>
 pict - a script for creating a slide show from all the pictures in the directory and the desired song with a specified interval of changing pictures in seconds <br>...<br>
+splif - working script on gluing together your favorite passages you just need to specify the number of fragments and the folder with the files <br>...<br>
 
 
