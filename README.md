@@ -8,7 +8,6 @@ music_bot - Music bot for Telegram with two functions: receive and send a song +
 pict - a script for creating a slide show from all the pictures in the directory and the desired song with a specified interval of changing pictures in seconds <br>...<br>
 splif - working script on gluing together your favorite passages you just need to specify the number of fragments and the folder with the files <br>...<br>
 kladmen - You just need to move the file to the desired directory and run, then all the files will be packaged into the necessary folders (Video, music, documents...) <br>...<br>
- if not difficult, share bitcoin 0.00051 to wallet 3AAFoA19oxsDg1dEyXYQT5VoqPfBTiYLUx  <br>...<br>
-https://www.youtube.com/channel/UC4oXa0arkMMGkQF_kae-iyA   here video on work demonstration 
+if not difficult, share any GRAM to wallet UQCsHgrwYOgxlMK3dppgQo2QQDMCJeGmKsxgNdCft6hkdfmt <br>...<br>
 
 
